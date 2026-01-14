@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://final-cortez.onrender.com';
 
 import type { Product, Order, OrderDetail, Category, Client, Address, Review, Bill } from './types';
 
