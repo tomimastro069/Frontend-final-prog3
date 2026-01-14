@@ -53,7 +53,7 @@
     "vite": "6.3.5"
   },
   "scripts": {
-    "dev": "vite --logLevel error",
-    "build": "vite build --logLevel error"
+    "dev": "npx vite --logLevel error",
+    "build": "npx vite build --logLevel error"
   }
 }
