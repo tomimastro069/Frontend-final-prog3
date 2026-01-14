@@ -1,10 +1,12 @@
 
-  # E-commerce de componentes
+  # Techstore
 
 
-  ## Running the code
+  ## Correr el codigo 
 
-  Run `npm i` to install the dependencies.
+  Tener el backend abierto
 
-  Run `npm run dev` to start the development server.
+  Run `npm i` para instalar dependecias.
+
+  Run `npm run dev` para empezar el lanzamiento de la pagina.
   
